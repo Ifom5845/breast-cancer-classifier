@@ -1,4 +1,4 @@
-# breast-cancer-classifier
+
 # Clasificador de Cáncer de Mama
 
 Este proyecto utiliza un modelo de Random Forest para clasificar tumores de mama como benignos o malignos utilizando el conjunto de datos `load_breast_cancer` de scikit-learn.
